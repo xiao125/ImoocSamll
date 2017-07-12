@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.imooc.appmain"
+    },
+    {
+      "pkg": "com.imooc.libnetwork"
+    },
+    {
+      "uri":"search",
+      "pkg": "com.imooc.appsearch"
+    }
+
+  ]
+}

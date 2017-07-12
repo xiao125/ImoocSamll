@@ -1,4 +1,4 @@
-package com.imooc;
+package com.imooc.appsearch;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
